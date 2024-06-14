@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate software developer from Spain 🇪🇸</h3>
+<h1 align="center">A passionate software developer from Spain 🇪🇸</h1>
 
 <br/>
 
@@ -36,9 +36,9 @@
   </a>
 </div>
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
