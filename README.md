@@ -1,6 +1,3 @@
-<div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
