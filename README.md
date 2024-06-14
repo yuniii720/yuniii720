@@ -1,3 +1,6 @@
+<div align="center">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -33,11 +36,9 @@
   </a>
 </div>
 
-<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<h2 align="center" border-bottom="1px">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -46,10 +47,16 @@
 
 <br/>
 
-<hr/>
-
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
+<br/><br/><br/>
 
+<div align="center">
+  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</div>
+
+<br/>
